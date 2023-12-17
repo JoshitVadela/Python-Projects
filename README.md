@@ -30,6 +30,9 @@ Each project has its dedicated folder, containing the code, documentation, and a
 ### Tic_Tac_Toe_Game-Project
 * Tic_Tac_Toe_Game_Youtube_Project.ipynb: Tic Tac Toe game developed based off of a Youtube video
 
+### Binary_Search_Algorithm-Project
+* Binary_Search_Algorithm_Project.ipynb: Mini Python Project that returns the index of a choosen target element in a list
+
 ## About Me
 I'm a Grade 9 student enthusiastic about delving deeper into the realms of programming, AI, and technology. This repository reflects my journey of exploration, learning, and application in the field of Python programming.
 
