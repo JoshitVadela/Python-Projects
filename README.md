@@ -33,6 +33,9 @@ Each project has its dedicated folder, containing the code, documentation, and a
 ### Binary_Search_Algorithm-Project
 * Binary_Search_Algorithm_Project.ipynb: Mini Python Project that returns the index of a choosen target element in a list
 
+### Creating_A_School-Project_(Classes)
+* Creating_a_School_Project.ipynb: A basic project using school scenario - mainly to review the concept of classes
+
 ## About Me
 I'm a Grade 9 student enthusiastic about delving deeper into the realms of programming, AI, and technology. This repository reflects my journey of exploration, learning, and application in the field of Python programming.
 
